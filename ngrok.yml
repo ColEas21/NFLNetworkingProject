@@ -1,0 +1,7 @@
+web_addr: localhost:4040
+tunnels:
+  api:
+    proto: http
+    addr: 5000
+
+
